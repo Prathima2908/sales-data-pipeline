@@ -1,0 +1,6 @@
+order_id,product,region,amount,date
+1,Laptop,US,1200,2024-01-10
+2,Phone,India,800,2024-01-12
+3,Tablet,US,400,2024-01-15
+4,Laptop,UK,1300,2024-02-10
+5,Phone,US,900,2024-02-18
